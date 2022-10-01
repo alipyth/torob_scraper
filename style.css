@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@500&display=swap');
+
+html,body,[class*="css"] {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    font-size: 16px;
+    direction: rtl;
+    font-weight: 500;
+    color: darkslategrey;
+}
+.css-1kyxreq{
+    font-family: 'Noto Sans Arabic', sans-serif;
+    flex-flow: row wrap;
+    align-content: space-around;
+    justify-content: space-around;
+
+}
+h1{
+    text-align: center
+}
+.st-cf{
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+.stDownloadButton{
+    text-align: center;
+
+}
+.css-1q1n0ol{
+    display: none;
+}
+
+.h21ty{
+
+    color:red;
+}
